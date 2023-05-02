@@ -1,0 +1,101 @@
+__Lrdata 24 FFFFFFDF DATA
+__Hrbss 24 0 DATA
+__Lrbss 20 0 DATA
+__Birdata 3 FFFFFFDF DATA
+__Hirdata 24 FFFFFFDF DATA
+__Lirdata 24 FFFFFFDF DATA
+powerup 8A 0 CODE
+__Htext 24 0
+__Ltext 24 0
+__Hcode 24 0
+__Lcode 24 0
+ldb_r0 12 0 CODE
+ldc_r0 E 0 CODE
+__Hdata 100 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 24 0 XDATA
+ldb_r1 1F 0 CODE
+ldc_r1 1B 0 CODE
+__Hbss 24 0 XDATA
+__Hstrings 111 0 CODE
+ldb_r2 2C 0 CODE
+ldc_r2 28 0 CODE
+__Lbss 24 0 XDATA
+__Lstrings 100 0 CODE
+ldb_r3 39 0 CODE
+ldc_r3 35 0 CODE
+ldb_r4 46 0 CODE
+ldc_r4 42 0 CODE
+ldb_r5 53 0 CODE
+ldc_r5 4F 0 CODE
+__S0 213 0
+ldb_r6 60 0 CODE
+ldc_r6 5C 0 CODE
+ldb_r7 6D 0 CODE
+ldc_r7 69 0 CODE
+start1 76 0 CODE
+__Hnvram 24 0 XDATA
+small_model 1 0
+__Lnvram 24 0 XDATA
+ldc_byte 3 0 CODE
+__Hheap 24 0 XDATA
+__Lheap 24 0 XDATA
+_main 111 0 CODE
+?a_main 20 0 DATA
+_exit 87 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+__Brbit 20 20 BITSEG
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 24 0 DATA
+__Hidata 24 0 DATA
+__Lidata 24 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFDF DATA
+__Hrdata 24 FFFFFFDF DATA
+%segments
+vectors 0 8C CODE
+rbit 0 3 BITSEG
+data 100 212 CODE
+%locals
+C:\Users\User\DOWNLO~1\5377F~1\5377F~1\VIKAPR~1\project1\main_0.obj
+C:\Users\User\DOWNLO~1\5377F~1\5377F~1\VIKAPR~1\project1\main.c
+4 111 0 CODE
+6 114 0 CODE
+8 11A 0 CODE
+9 11D 0 CODE
+10 120 0 CODE
+11 123 0 CODE
+15 126 0 CODE
+17 12C 0 CODE
+18 12F 0 CODE
+19 13A 0 CODE
+20 145 0 CODE
+21 150 0 CODE
+23 15B 0 CODE
+24 15E 0 CODE
+25 169 0 CODE
+26 174 0 CODE
+27 17F 0 CODE
+31 18A 0 CODE
+32 18D 0 CODE
+33 198 0 CODE
+34 1A3 0 CODE
+35 1AE 0 CODE
+37 1B9 0 CODE
+38 1BC 0 CODE
+39 1C7 0 CODE
+40 1D2 0 CODE
+41 1DD 0 CODE
+42 1E7 0 CODE
+44 1F5 0 CODE
+45 206 0 CODE
+46 209 0 CODE
+49 20C 0 CODE
+50 20F 0 CODE
